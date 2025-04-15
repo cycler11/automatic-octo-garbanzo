@@ -6,3 +6,5 @@ Software + QA(Unit test) + Database
 3. report.html is regenerating everytime
 
 Reports and screenshots are located in REP folder.
+
+
